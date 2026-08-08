@@ -46,19 +46,3 @@ Graduando em Ciência da Computação, focado em entender os fundamentos da comp
 💻 Linguagens de Programação & Web
 🛠️ Ferramentas & Ambiente
 🖥️ Status do Sistema (Objetivos Atuais)
-Bash
-vinicius@computer-science:~# ./goals_progress.sh --status
-
-[✔] Fundamentos de Lógica e Estrutura em C .......... [CONCLUÍDO]
-[⏳] Estruturas de Dados e Ponteiros em C ............ [EM PROGRESSO - 70%]
-[⏳] Manipulação de DOM & JS Assíncrono .............. [EM PROGRESSO - 50%]
-[⏳] Criação de Interfaces Web Responsivas (HTML/CSS) . [EM PROGRESSO - 80%]
-[🚀] Aplicações Orientadas a Objetos com Dart ........ [AGENDADO]
-🚀 Projetos em Destaque
-📊 Métricas & Telemetria
-🏆 GitHub Trophies
-🐍 Contribution Snake
-🌐 Conectar
-⚡ System status: OPERATIONAL | Developed by Vinícius Gabriel Schmidt Machado ⚡
-
-Nota: As únicas coisas que restaram com um texto padrão são o botão do LinkedIn e E-mail lá embaixo na seção "Conectar" (caso queira colocar o seu link real depois).
