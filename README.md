@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00F3FF&center=true&vCenter=true&width=650&lines=%3E_ INITIALIZING... CORE_SYSTEM_v2.0;%3E_ VINÍC3%8CDIUS GABRIEL SCHMIDT MACHADO;%3E_ CI%C3%8ANCIA DA COMPUTA%C3%87%C3%83O %7C 2%C2%BA PER%C3%8DODO;%3E_ BUILDING SOLUTIONS WITH C %26 WEB TECH" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00F3FF&center=true&vCenter=true&width=650&lines=%3E_ INITIALIZING... CORE_SYSTEM_v2.0;%3E_ VINÍC3%8CIUS GABRIEL SCHMIDT MACHADO;%3E_ CI%C3%8ANCIA DA COMPUTA%C3%87%C3%83O %7C 2%C2%BA PER%C3%8DODO;%3E_ BUILDING SOLUTIONS WITH C %26 WEB TECH" alt="Typing Animation" />
 </a>
 
 <p align="center">
